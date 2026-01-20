@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SWT0211-050010GSA_REVA")(type "KiCad")(uri "${KIPRJMOD}/Lib/sym/SWT0211-050010GSA_REVA.kicad_sym")(options "")(descr ""))
+)
